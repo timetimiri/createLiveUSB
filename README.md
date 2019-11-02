@@ -2,4 +2,4 @@
 
 OS X only.
 
-Tool to quickly create live USB sticks in the command line.
+Tool to quickly create live USBs within the command line.
