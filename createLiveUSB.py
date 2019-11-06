@@ -2,7 +2,7 @@ import os
 import getpass 
 
 print("Creating a Live USB...")
-print ("WARNING: Make sure USB is formatted!")
+print("WARNING: Make sure USB is formatted!")
 isoFile = input("Enter the path to the ISO file: ")
 
 os.system("diskutil list")
