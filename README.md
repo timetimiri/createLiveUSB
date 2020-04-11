@@ -2,4 +2,4 @@
 
 OS X only.
 
-Tool to quickly create live USBs frmo the command line.
+Tool to quickly create live USBs from the command line.
